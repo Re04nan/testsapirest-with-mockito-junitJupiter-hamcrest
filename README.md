@@ -58,5 +58,5 @@ http://localhost:8080/api/v1/beers
 * [Referência pirâmide de testes - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 
 <h3>Link da api hospedada no Heroku:</h3>
-
+https://beerstockapi.herokuapp.com/swagger-ui.html
 
