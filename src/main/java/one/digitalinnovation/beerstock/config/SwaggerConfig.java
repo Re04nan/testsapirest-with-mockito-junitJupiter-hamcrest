@@ -20,7 +20,7 @@ public class SwaggerConfig {
     private static final String API_TITLE = "Beer Stock API";
     private static final String API_DESCRIPTION = "REST API for beer stock management";
     private static final String CONTACT_NAME = "Renan Marques";
-    private static final String CONTACT_GITHUB = "https://gtihub.com/re04nan";
+    private static final String CONTACT_GITHUB = "https://github.com/re04nan";
     private static final String CONTACT_EMAIL = "re04.marques@gmail.com";
 
     @Bean
